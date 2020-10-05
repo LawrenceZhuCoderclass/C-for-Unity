@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Runtime.InteropServices.ComTypes;
 
 namespace Boodschappen
 {
@@ -6,34 +8,50 @@ namespace Boodschappen
     {
         static void Main(string[] args)
         {
-            int aantal;
-            string p1 = "";
-            const float prijsBrood = 1.00f;
-            const float prijsKaas =  1.50f;
-            const float prijsHam = 1.50f;
-            const float prijsKoek = 2.50f;
-            const float prijsSnoep = 2.00f;
-            const float prijsMelk = 1.00f;
-            const float prijsHagelslag = 2.00f;
-            const float prijsPasta = 1.00f;
-            const float prijsTomaten = 1.50f;
-            const float prijsWijn = 15.00f;
-            const float BtwPercentage = 1.21f;
+            double prijs = 0.00;
+            double BTW = 1.21;
+            IDictionary<string, double> items = new Dictionary<string, double>();
+            items.Add("Kaas", 1.50);
+            items.Add("Melk", 1.00);
+            items.Add("Komkomer",1.50);
+            items.Add("Tomaten",1.50);
+            items.Add("Koek",2.00);
+            items.Add("Fanta",1.50);
+            items.Add("Pasta",2.00);
+            items.Add("Eieren",3.00);
+            items.Add("Yoghurt",2.00);
+            items.Add("Water",0.50);
 
-            Console.WriteLine(@"brood = 1.00 
-Kaas = 1.50
-Ham = 1.50
-Koek = 2.50
-Snoep = 2.00
-Melk = 1.00
-Hagelslag = 2.00
-Pasta = 1.00
-Tomaten = 1.50
-Wijn = 15.00
-kies 3 producten");
+            foreach (KeyValuePair<string, double> ele in items)
+            { 
+                Console.WriteLine("Product = {0}, Prijs = {1}", ele.Key, ele.Value);
+            }
+            for (int i = 0; i <= 2; i++)
+            {
+                Console.WriteLine("Kies een product");
+                string p = Console.ReadLine();
 
-            p1 = Console.ReadLine();
-
+                bool IsCorrect = false;
+                foreach (KeyValuePair<string, double> key in items)
+                {
+                    if (key.Key == p)
+                    {
+                        IsCorrect = true;
+                    }
+                }
+                if (!IsCorrect)
+                {
+                    Console.WriteLine("Dat helaas niet");
+                }
+                else
+                {
+                    Console.WriteLine("Hoeveel wil je er");
+                    int aBoodschappen = Int32.Parse(Console.ReadLine());
+                    prijs += items[p] * aBoodschappen;  
+                }
+            }
+            Console.WriteLine("Dat kost zonder BTW " + prijs + " euro");
+            Console.WriteLine("Inclusief BTW kost het " + prijs * BTW + " euro");
 
         }
     }
