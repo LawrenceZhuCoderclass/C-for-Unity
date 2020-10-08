@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\bin\Debug\netcoreapp3.1\Opdracht6.exe
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\bin\Debug\netcoreapp3.1\Opdracht6.deps.json
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\bin\Debug\netcoreapp3.1\Opdracht6.runtimeconfig.json
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\bin\Debug\netcoreapp3.1\Opdracht6.runtimeconfig.dev.json
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\bin\Debug\netcoreapp3.1\Opdracht6.dll
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\bin\Debug\netcoreapp3.1\Opdracht6.pdb
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\obj\Debug\netcoreapp3.1\Opdracht6.csprojAssemblyReference.cache
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\obj\Debug\netcoreapp3.1\Opdracht6.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\obj\Debug\netcoreapp3.1\Opdracht6.AssemblyInfo.cs
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\obj\Debug\netcoreapp3.1\Opdracht6.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\obj\Debug\netcoreapp3.1\Opdracht6.dll
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\obj\Debug\netcoreapp3.1\Opdracht6.pdb
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht6\Opdracht6\obj\Debug\netcoreapp3.1\Opdracht6.genruntimeconfig.cache
