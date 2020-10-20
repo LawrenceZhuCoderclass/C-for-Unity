@@ -17,6 +17,14 @@ namespace GuessGame
                     guessedWord = Console.ReadLine();
 
                 }
+                if (aantal == 0)
+                {
+                    Console.WriteLine("Het begint met i");
+                }
+                if (aantal == 1)
+                {
+                    Console.WriteLine("Het begint met in");
+                }
                 if(guessedWord == secretWord)
                 {
                     Console.WriteLine("You've won");
