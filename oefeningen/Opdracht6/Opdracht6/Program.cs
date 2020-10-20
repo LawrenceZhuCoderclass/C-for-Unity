@@ -43,7 +43,7 @@ namespace Te
                 Console.WriteLine("U krijgt " + korting + " euro korting");
             }
             Console.WriteLine("Alles in totaal kost " + incl + " euro");
-            Console.WriteLine("Verzendkosten zijn" + verzend + " euro");
+            Console.WriteLine("Verzendkosten zijn " + verzend + " euro");
             }
             
 

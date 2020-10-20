@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.csprojAssemblyReference.cache
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.AssemblyInfo.cs
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.exe
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.deps.json
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.runtimeconfig.json
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.runtimeconfig.dev.json
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.dll
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\bin\Debug\netcoreapp3.1\Opdracht5.pdb
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.dll
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.pdb
+C:\Users\Eigenaar\OneDrive\Documents\school\coderclass\C# for Unity\oefeningen\Opdracht5\Opdracht5\obj\Debug\netcoreapp3.1\Opdracht5.genruntimeconfig.cache

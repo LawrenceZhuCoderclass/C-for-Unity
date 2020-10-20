@@ -21,7 +21,7 @@ namespace Te
 			CEO = nCEO;
 			prijs = nPrijs;
         }
-		public float BTW(int aantal )
+		public float BTW(int aantal)
         {
 			return aantal * prijs + ((aantal * prijs) * Btw);
         }

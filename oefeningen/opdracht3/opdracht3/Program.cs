@@ -8,7 +8,7 @@ namespace opdracht3
     {
         static void Main(string[] args)
         {
-            int result;
+            double result;
             Console.WriteLine("wat is het eerste getal");
             int getal1 =  Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("wat is het tweede geetal");
@@ -39,8 +39,8 @@ namespace opdracht3
                 }
                 else
                 {
-                    result = getal1 / getal2;
-                    Console.WriteLine(result);
+                    
+                    Console.WriteLine(getal1 / getal2);
                 }
             }
             else
