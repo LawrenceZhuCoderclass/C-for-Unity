@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Te
+namespace Telefoonsshopping
 {
     class Program
     {
@@ -9,11 +9,11 @@ namespace Te
             float incl;
             float korting;
             float verzend;
-            Tele Tele1 = new Tele("iPhone", "iPhone XS", "Apple IOS", "Steve Jobs", 600f);
-            Tele Tele2 = new Tele("Samsung", "Galaxy S7", "Ändroid","Kim-Hyun-chull", 299f);
-            Tele Tele3 = new Tele("Google Pixel", "Pixel 3", "Chrome OS", "Sundar Pichai", 399f);
+            Telefoons Tele1 = new Telefoons("iPhone", "iPhone XS", "Apple IOS", "Steve Jobs", 600f);
+            Telefoons Tele2 = new Telefoons("Samsung", "Galaxy S7", "Ändroid","Kim-Hyun-chull", 299f);
+            Telefoons Tele3 = new Telefoons("Google Pixel", "Pixel 3", "Chrome OS", "Sundar Pichai", 399f);
 
-            Tele[] Teles = new Tele[3];
+            Telefoons[] Teles = new Telefoons[3];
             Teles[0] = Tele1;
             Teles[1] = Tele2;
             Teles[2] = Tele3;

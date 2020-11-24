@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eigenaar\\OneDrive\\Documents\\school\\coderclass\\C# for Unity\\opdracht1\\opdracht1\\opdracht1.csproj",
+      "projectUniqueName": "C:\\Users\\Eigenaar\\OneDrive\\Documents\\school\\coderclass\\C# for Unity\\oefeningen\\opdracht1\\opdracht1.csproj",
       "projectName": "opdracht1",
-      "projectPath": "C:\\Users\\Eigenaar\\OneDrive\\Documents\\school\\coderclass\\C# for Unity\\opdracht1\\opdracht1\\opdracht1.csproj",
+      "projectPath": "C:\\Users\\Eigenaar\\OneDrive\\Documents\\school\\coderclass\\C# for Unity\\oefeningen\\opdracht1\\opdracht1.csproj",
       "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eigenaar\\OneDrive\\Documents\\school\\coderclass\\C# for Unity\\opdracht1\\opdracht1\\obj\\",
+      "outputPath": "C:\\Users\\Eigenaar\\OneDrive\\Documents\\school\\coderclass\\C# for Unity\\oefeningen\\opdracht1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",

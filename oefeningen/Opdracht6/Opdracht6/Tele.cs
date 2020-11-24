@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Te
+namespace Telefoonsshopping
 {
-	public class Tele
+	public class Telefoons
 	{
 		const float Btw = 0.21f;
 		public float prijs = 3.95f;
@@ -13,7 +13,7 @@ namespace Te
 		public string CEO;
 		
 	
-		public Tele (string nType, string nModel, string nOS, string nCEO, float nPrijs)
+		public Telefoons (string nType, string nModel, string nOS, string nCEO, float nPrijs)
         {
 			Type = nType;
 			Model = nModel;
